@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "stdio.h": "c",
+        "balises.h": "c",
+        "graphics.h": "c",
+        "parser.h": "c",
+        "string.h": "c",
+        "iostream": "cpp",
+        "renderer.h": "c",
+        "stdlib.h": "c",
+        "styles.h": "c"
+    }
+}

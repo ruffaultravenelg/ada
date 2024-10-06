@@ -1,0 +1,25 @@
+main{
+    backcolor: #333333;
+    layout: row;
+}
+a{
+    backcolor: blue;
+    width: 50%;
+    height: 100%;
+}
+b{
+    layout: row;
+    backcolor: red;
+    width: 50%;
+    height: 50%;
+}
+c{
+    backcolor: green;
+    width: 50%;
+    height: 50%;
+}
+d{
+    backcolor: #033003;
+    width: 50%;
+    height: 50%;
+}

@@ -1,0 +1,9 @@
+<window stylesheet="test/style.css" width="500" height="500" title="Bonjour monde">
+    <lst style="main">
+        <lst style="b" >
+            <btn style="c" >
+            <btn style="d" >
+        </lst>
+        <btn style="a" >
+    </lst>
+</window>
